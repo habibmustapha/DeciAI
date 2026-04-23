@@ -90,3 +90,4 @@ ahp_app/
 5. **Final Score**: Weighted sum of alternative priorities × criterion weights
 
 CR ≤ 0.10 indicates acceptable consistency.
+# DeciAI
